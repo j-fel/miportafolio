@@ -1,0 +1,137 @@
+body{
+  margin:0 ;
+  padding:0 ;
+  border: 0;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+/*ACA IRA LO DEL NAV*/
+.nav{
+  background:  #000033;
+  text-decoration: none;
+}
+
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*ACA IRA LO DEL HEADER*/
+.modiheader{
+
+    background-image: url('../img/felipe1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding: 14.00rem ;
+
+}
+
+.movediv{
+  color: #001a00;
+ top: 220px;
+}
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+
+/*ACA IRA LO DEL SECTION 1*/
+.margensection{
+  margin-bottom: 80px;
+}
+.parrafo1{
+  padding-left: 150px;
+}
+.parrafo2{
+  padding-right: 150px;
+}
+.moveimage1{
+  left: 120px;
+}
+.moveimage2{
+  left: 120px;
+}
+.moveh5{
+  margin-left: 20px;
+}
+.movep {
+  margin-left: 60px;
+}
+.movep1 {
+  margin-left: 60px;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*ACA IRA LO DEL SECTION 2*/
+.mtopsection{
+  background: #6699ff;
+  margin-top: 90px;
+  padding-top: 40px;
+}
+
+
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+
+
+/*ACA IRA LO DEL SECTION 3*/
+.muevetodascard{
+  margin-top: 60px;
+}
+.muevetodocard2{
+  margin-top: 35px;
+}
+.muevecard{
+  margin-right: 20px;
+}
+.muevecard2{
+  margin-right: 20px;
+}
+.muevecard3{
+  margin-right: 20px;
+}
+.muevecard4{
+  margin-right: 20px;
+}
+.h1blanco{
+  color: #fff;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+/*ACA IRA LO DEL SECTION 4 FORMULARIO*/
+
+
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------*/
+
+/*ACA IRA LO DEL FOOTER*/
+footer{
+  background: #000033;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+.moveimgfoot{
+  left: 120px;
+}
+.moveiconfoot{
+  top: 90px;
+}
+.imagenfoter{
+  margin-right: 30px;
+}
+.icon1{
+  margin-left: 10px;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------------------------*/
